@@ -16,6 +16,7 @@ public class Customer {
     public void display(){
         System.out.println(custId+"\t"+custName+"\t"+panCard);
         System.out.println("AcctNo : "+ myAccount.acctNum+"\t Balance : "+ myAccount.balance);
+        System.out.println("Hello World");
     }
 }
 
